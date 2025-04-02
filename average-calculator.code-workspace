@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "java.project.sourcePaths": ["src/main/java"],
+    "java.project.outputPath": "build/classes/java/main",
+    "java.project.referencedLibraries": [
+      "lib/**/*.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+  }
+}
